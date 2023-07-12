@@ -1,0 +1,1 @@
+cat file | head -n 16482 | tail -n 258
