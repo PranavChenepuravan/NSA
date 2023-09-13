@@ -1,0 +1,1 @@
+echo "Just for fun"
